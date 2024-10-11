@@ -1,4 +1,4 @@
-function getFormvalue(event) {
+function getFormvalue() {
     // Prevent the default form submission
     event.preventDefault();
 
